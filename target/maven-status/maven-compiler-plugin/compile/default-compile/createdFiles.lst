@@ -1,0 +1,9 @@
+org\gog\datatrace\receiver\dictionnary\DataType.class
+org\gog\datatrace\receiver\dictionnary\Dictionnary.class
+org\gog\datatrace\receiver\ReceivedFormat.class
+org\gog\datatrace\receiver\dictionnary\DictionnaryEntryDataDefinition.class
+org\gog\datatrace\receiver\Tracer.class
+org\gog\datatrace\receiver\formatting\MessagetBuilder.class
+org\gog\datatrace\receiver\formatting\MessagetBuilder$1.class
+org\gog\datatrace\receiver\BinaryBufferParser.class
+org\gog\datatrace\receiver\dictionnary\DictionnaryEntry.class
